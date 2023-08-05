@@ -1,10 +1,12 @@
 import { FC } from 'react'
+import HumanCard from './conponents/HumanCard/HumanCard'
 
 const App: FC = () => {
-  return <h1 className="text-3xl font-bold underline">
-    Hello world!
-    <h2></h2>
-  </h1>
+  return (
+    <div>
+      <HumanCard />
+    </div>
+  )
 }
 
 export default App
