@@ -2,7 +2,7 @@ import React from 'react'
 
 const AdditionalInfo = () => {
   return (
-    <div className='flex flex-col gap-4 sm:flex-row sm:gap-6'>
+    <div className='flex flex-wrap justify-center gap-4 sm:flex-row sm:gap-6'>
       <div className='bg-white w-full sm:w-[46%] rounded-lg p-6'>
         <p className='text-black font-medium text-xl leading-6 tracking-wider uppercase'>
           Освіта
