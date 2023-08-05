@@ -30,7 +30,7 @@ const AdditionalInfo = () => {
       </div>
 
       <div className='bg-white w-full sm:w-[46%] rounded-lg p-6'>
-        <p className='text-black font-medium text-xl leading-6 tracking-wider uppercase'>
+        <p className='text-black font-medium text-xl leading-6 tracking-wider uppercase mb-2'>
           Досягнення
         </p>
         <ul className='list-disc ml-6 space-y-2'>
@@ -65,7 +65,7 @@ const AdditionalInfo = () => {
       </div>
 
       <div className='bg-white w-full sm:w-[46%] rounded-lg p-6'>
-        <p className='text-black font-medium text-xl leading-6 tracking-wider uppercase'>
+        <p className='text-black font-medium text-xl leading-6 tracking-wider uppercase mb-2'>
           Кар&apos;єра
         </p>
         <ul className='list-disc ml-6 space-y-2'>
@@ -100,7 +100,7 @@ const AdditionalInfo = () => {
       </div>
 
       <div className='bg-white w-full sm:w-[46%] rounded-lg p-6'>
-        <p className='text-black font-medium text-xl leading-6 tracking-wider uppercase'>
+        <p className='text-black font-medium text-xl leading-6 tracking-wider uppercase mb-2'>
           Захоплення
         </p>
         <ul className='list-disc ml-6 space-y-2'>
