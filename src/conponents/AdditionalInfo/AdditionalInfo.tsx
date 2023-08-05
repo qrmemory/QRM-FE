@@ -4,7 +4,7 @@ const AdditionalInfo = () => {
   return (
     <div className='flex flex-wrap justify-center gap-4 sm:flex-row sm:gap-6'>
       <div className='bg-white w-full sm:w-[46%] rounded-lg p-6'>
-        <p className='text-black font-medium text-xl leading-6 tracking-wider uppercase'>
+        <p className='text-black font-medium text-xl leading-6 tracking-wider uppercase mb-2'>
           Освіта
         </p>
         <ul className='list-disc ml-6 space-y-2'>
